@@ -1,5 +1,7 @@
-"Eurydice"
-"Orpheus"
-"Icarus"
-"Phaeton"
-"Arachne"
+<ul>
+<li>"Eurydice"</li>
+<li>"Orpheus"</li>
+<li>"Icarus"</li>
+<li>"Phaeton"</li>
+<li>"Arachne"</li>
+</ul>
